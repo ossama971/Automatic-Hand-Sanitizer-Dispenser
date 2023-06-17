@@ -1,2 +1,2 @@
 # Automatic-Hand-Sanitizer-Dispenser
-#### A device using ultrasound to detect hand and dispense sanitizer
+#### An arduino prototype device that uses ultrasound to detect hand within suitable range to dispense sanitizer
